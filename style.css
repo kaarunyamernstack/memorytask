@@ -87,11 +87,11 @@ font-family:cursive;
 }
 @media (min-width: 420px) {
     .game-board {
-        max-width: 600px;
+        max-width: 470px;
         grid-template-columns: repeat(4, 1fr);
     }
 
     .header {
-        max-width: 600px;
+        max-width: 500px;
     }
 } 
