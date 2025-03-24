@@ -46,8 +46,10 @@ body {
 background-color:rgb(92, 9, 92);
 padding: 50px;
 border-radius: 20px;
-box-shadow: 100px;
+
 border: 5px solid white;
+position: relative;
+left: 20px;
 }
 .game-board {
     display: grid;
